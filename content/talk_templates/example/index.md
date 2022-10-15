@@ -33,9 +33,6 @@ url_slides: ""
 url_video: ""
 ---
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
 
 Slides can be added in a few ways:
 
