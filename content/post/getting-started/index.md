@@ -53,7 +53,7 @@ title: 'Academic: the website builder for Hugo'
 - [**Get Started**](https://sourcethemes.com/academic/docs/get-started/)
 - [View the documentation](https://sourcethemes.com/academic/docs/)
 - [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
+- [Request a feature or report a bug](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
 - Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
 - Support development of Academic:
   - [Donate a coffee](https://paypal.me/cushen)
@@ -109,10 +109,10 @@ Then [personalize and deploy your new site](https://sourcethemes.com/academic/do
 
 [View the Update Guide](https://sourcethemes.com/academic/docs/update/).
 
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
+Feel free to *star* the project on [Github](https://github.com/wowchemy/wowchemy-hugo-themes/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
 
 ## License
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
