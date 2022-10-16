@@ -22,7 +22,7 @@ summary:
 tags:
 - published
 title: Equivalence Checking for Superconducting RSFQ Logic Circuits
-note: Best Paper Normalization
+note: Best Paper Nomination
 url_code: ""
 url_dataset: ""
 url_pdf: ""
