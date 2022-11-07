@@ -6,8 +6,8 @@ title: 'A survey on superconducting computing technology: circuits, architecture
 subtitle: ''
 summary: ''
 authors:
+- Junying Huang
 - admin
-- Rongliang Fu
 - Xiaochun Ye
 - Dongrui Fan
 tags: []
