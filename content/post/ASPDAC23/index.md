@@ -12,7 +12,7 @@ projects:
 publishDate: "2022-09-13T11:58:00Z"
 summary: 
 tags: []
-title: A Global Optimization Algorithm for Buffer and Splitter Insertion in Adiabatic Quantum-Flux-Parametron Circuits is accepted by ASP-DAC 2023
+title: A Global Optimization Algorithm for Buffer and Splitter Insertion in Adiabatic Quantum-Flux-Parametron Circuits is accepted by ASPDAC 2023
 url_code: ""
 url_pdf: ""
 url_slides: ""

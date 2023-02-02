@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy;Flynn {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -34,45 +34,38 @@ hasCJKLanguage = true                  # Set `true` for Chinese/Japanese/Korean 
 defaultContentLanguageInSubdir = false
 removePathAccents = true               # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
-paginate = 10 # Number of items per page in paginated lists.
+paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = [
-  "\\.ipynb$",
-  ".ipynb_checkpoints$",
-  "\\.Rmd$",
-  "\\.Rmarkdown$",
-  "_files$",
-  "_cache$",
-]
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [outputs]
-home = ["HTML", "RSS", "JSON", "WebAppManifest"]
-section = ["HTML", "RSS"]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  section = [ "HTML", "RSS" ]
 
 [mediaTypes."application/manifest+json"]
-suffixes = ["webmanifest"]
+  suffixes = ["webmanifest"]
 
 [outputFormats.WebAppManifest]
-mediaType = "application/manifest+json"
-rel = "manifest"
+  mediaType = "application/manifest+json"
+  rel = "manifest"
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
-hrefTargetBlank = true              # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
-angledQuotes = false
-latexDashes = true
-extensions = ["backslashLineBreak"]
+  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
+	angledQuotes = false
+	latexDashes = true
+  extensions = ["backslashLineBreak"]
 
 [imaging]
-resampleFilter = "lanczos"
-quality = 90
-anchor = "smart"           # Anchor for cropping. Options include Smart and Center.
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.
 [taxonomies]
-tag = "tags"
-category = "categories"
-publication_type = "publication_types"
-author = "authors"
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
