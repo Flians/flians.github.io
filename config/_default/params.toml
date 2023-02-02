@@ -58,7 +58,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "rongliangfu@outlook.com"
 phone = "888 888 88 88"
 address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 
@@ -146,38 +146,38 @@ citation_style = "apa"
 #   2: Compact
 #   3: Card
 #   4: Citation (publications only)
-post_view = 2
-publication_view = 2
-talk_view = 2
+post_view = 1
+publication_view = 4
+talk_view = 1
 
 # Comments.
 [comments]
-# Comment provider:
-#   0: Disabled
-#   1: Disqus (https://disqus.com)
-#   2: Commento (https://commento.io)
-engine = 0
+  # Comment provider:
+  #   0: Disabled
+  #   1: Disqus (https://disqus.com)
+  #   2: Commento (https://commento.io)
+  engine = 0
 
-# Which page types are commentable?
-commentable = { page = true, post = true, docs = true, project = true, publication = true, talk = true }
+  # Which page types are commentable?
+  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
 
-# Configuration of Disqus.
-[comments.disqus]
-shortname = ""    # Paste the shortname from your Disqus dashboard.
-show_count = true # Show comment count in page header? (true/false)
+  # Configuration of Disqus.
+  [comments.disqus]
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    show_count = true  # Show comment count in page header? (true/false)
 
 # Search.
 [search]
-# Search provider:
-#   0: No search engine
-#   1: Academic (built-in)
-#   2: Algolia (https://www.algolia.com)
-engine = 1
+  # Search provider:
+  #   0: No search engine
+  #   1: Academic (built-in)
+  #   2: Algolia (https://www.algolia.com)
+  engine = 0
 
-# Configuration of Algolia search engine.
-# Paste the values from your Algolia dashboard.
-[search.algolia]
-app_id = ""
-api_key = ""
-index_name = ""
-show_logo = false
+  # Configuration of Algolia search engine.
+  # Paste the values from your Algolia dashboard.
+  [search.algolia]
+    app_id = ""
+    api_key = ""
+    index_name = ""
+    show_logo = false

@@ -6,7 +6,7 @@ title: A Global Optimization Algorithm for Buffer and Splitter Insertion in Adia
 subtitle: ''
 summary: ''
 authors:
-- Rongliang Fu
+- admin
 - Mengmeng Wang
 - Yirong Kan
 - Nobuyuki Yoshikawa
@@ -18,7 +18,7 @@ tags:
 - AQFP
 categories: []
 date: '2023-01-01'
-lastmod: 2023-02-03T01:09:30+08:00
+lastmod: 2023-02-02T01:09:30+08:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-02T17:09:30.737080Z'
+publishDate: '2023-01-31T17:09:30.737080Z'
 publication_types:
 - '1'
 abstract: As a highly energy-efficient application of low-temperature superconductivity,
