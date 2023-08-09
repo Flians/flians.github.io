@@ -5,7 +5,7 @@ title: 'BOMIG: A Majority Logic Synthesis Framework for AQFP Logic'
 subtitle: ''
 summary: ''
 authors:
-- Rongliang Fu
+- admin
 - Junying Huang
 - Mengmeng Wang
 - Yoshikawa Nobuyuki
