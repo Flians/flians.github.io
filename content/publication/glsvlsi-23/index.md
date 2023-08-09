@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Xinda Chen
-- Rongliang Fu
+- admin
 - Junying Huang
 - Huawei Cao
 - Zhimin Zhang
