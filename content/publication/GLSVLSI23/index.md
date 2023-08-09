@@ -20,7 +20,7 @@ tags:
 - routing
 - superconducting logic
 categories: []
-date: '2023-01-01'
+date: '2023-06-05'
 lastmod: 2023-06-15T23:54:56+08:00
 featured: false
 draft: false
@@ -61,7 +61,8 @@ abstract: Superconducting rapid single-flux-quantum (RSFQ) logic has shown great
   JRouter reduces the routing width by an average of 38.77%, 38.20%, 21.65%, and 7.01%
   compared to Kito's, Kou's, and two of Yan's routing algorithms, respectively, while
   maintaining reasonable runtime.
-publication: '*Proceedings of the Great Lakes Symposium on VLSI 2023*'
+publication: '*Proceedings of the 2023 on Great Lakes Symposium on VLSI*'
+publication_short: '*GLSVLSI*'
 doi: 10.1145/3583781.3590267
 links:
 - name: URL

@@ -9,10 +9,13 @@
   </span>
   ({{- .Date.Format "2006" -}}).
   <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>.
+  {{ if .Params.publication }}
+  {{- .Params.publication | markdownify -}}
+  {{ end }}
   {{ if .Params.publication_short }}
-  {{- .Params.publication_short | markdownify -}}.
-  {{ else if .Params.publication }}
-  {{- .Params.publication | markdownify -}}.
+  ({{- .Params.publication_short | markdownify -}}).
+  {{ else }}
+  .
   {{ end }}
   {{ if .Params.note }}
   <b>({{- .Params.note -}})</b>
@@ -26,10 +29,13 @@
     {{ partial "page_metadata_authors" . }}
   </span>.
   <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>.
+  {{ if .Params.publication }}
+  {{- .Params.publication | markdownify -}}
+  {{ end }}
   {{ if .Params.publication_short }}
-  {{- .Params.publication_short | markdownify -}},
-  {{ else if .Params.publication }}
-  {{- .Params.publication | markdownify -}},
+  ({{- .Params.publication_short | markdownify -}}),
+  {{ else }}
+  ,
   {{ end }}
   {{- .Date.Format "2006" -}}.
   {{ if .Params.note }}

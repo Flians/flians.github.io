@@ -14,7 +14,7 @@ authors:
 - Olivia Chen
 tags: []
 categories: []
-date: '2023-01-01'
+date: '2023-06-02'
 lastmod: 2023-06-15T23:54:11+08:00
 featured: false
 draft: false
@@ -37,6 +37,7 @@ publishDate: '2023-06-15T15:54:10.869623Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)*'
+publication: '*Proceedings of the 26th Design, Automation & Test in Europe Conference & Exhibition*'
+publication_short: '*DATE*'
 doi: 10.23919/DATE56975.2023.10137075
 ---

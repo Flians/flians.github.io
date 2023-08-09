@@ -58,6 +58,7 @@ abstract: As a highly energy-efficient application of low-temperature supercondu
   an average reduction of 8.22% and 7.37% in the number of buffers and splitters inserted
   compared to the state-of-the-art methods from ICCAD'21 and DAC'22, respectively.
 publication: '*Proceedings of the 28th Asia and South Pacific Design Automation Conference*'
+publication_short: '*ASPDAC*'
 doi: 10.1145/3566097.3567936
 links:
 - name: URL

@@ -36,5 +36,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*CCF Transactions on High Performance Computing*'
+publication_short: '*CCF-THPC*'
 doi: 10.1007/s42514-022-00089-w
 ---
