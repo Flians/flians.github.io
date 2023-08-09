@@ -38,5 +38,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Computers*'
+publication_short: '*TC*'
 doi: 10.1109/TC.2022.3215085
 ---

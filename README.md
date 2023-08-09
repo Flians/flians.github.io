@@ -1,8 +1,15 @@
 # flians.github.io
+
 Personal blog
 
+## RUN
+
+`sudo apt install hugo`
+
+`hugo server`
+
 ## import bib
+
 ```
-sudo apt install hugo
 academic import --bibtex *.bib 
 ```

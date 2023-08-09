@@ -50,6 +50,7 @@ abstract: Equivalence checking is a key component of the verification methodolog
   solver. The experimental results show the feasibility of our approach on superconducting
   RSFQ logic circuits.
 publication: '*Proceedings of the 2021 on Great Lakes Symposium on VLSI*'
+publication_short: '*GLSVLSI*'
 doi: 10.1145/3453688.3461486
 links:
 - name: URL

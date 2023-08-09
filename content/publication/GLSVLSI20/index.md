@@ -59,6 +59,7 @@ abstract: The superconducting rapid single flux quantum (RSFQ) logic circuit has
   and 5.3% decrease in the number of layers of the schematic and number of edge crossings
   over the ELK tool.
 publication: '*Proceedings of the 2020 on Great Lakes Symposium on VLSI*'
+publication_short: '*GLSVLSI*'
 doi: 10.1145/3386263.3406898
 links:
 - name: URL
