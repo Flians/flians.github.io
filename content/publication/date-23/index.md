@@ -10,7 +10,7 @@ authors:
 - Mengmeng Wang
 - Yoshikawa Nobuyuki
 - Bei Yu
-- Tsung- Yi Ho
+- Tsung-Yi Ho
 - Olivia Chen
 tags: []
 categories: []
