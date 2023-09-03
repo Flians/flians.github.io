@@ -1,7 +1,19 @@
 ---
-authors:
+name: Flynn
+authors: 
 - admin
+superuser: true
+#role: PhD Student
+organizations:
+- name: Intelligent Design Automation Lab
+  url: "https://tsungyiho.github.io/"
+- name: CSE, CUHK
+  url: "https://www.cse.cuhk.edu.hk/"
 #bio: medical doctor turned neuroscientist and image analyst.
+interests:
+- Electronic design automation
+- Superconductive electronics
+- Computer architecture
 education:
   courses:
   - course: PhD in Computer Science
@@ -16,32 +28,22 @@ education:
   - course: BE in Software Engineer.
     institution: Northwestern Polytechnical University
     year: Sep 2014 - Jun 2018
-email: "rlfu@cse.cuhk.edu.hk"
-interests:
-- Electronic design automation
-- Superconductive electronics
-- Computer architecture
-name: Flynn
-organizations:
-- name: Intelligent Design Automation Lab
-  #url: "https://www.sainsburywellcome.org/web/"
-- name: CSE, CUHK
-  url: "https://www.cse.cuhk.edu.hk/"
-#role: PhD Student
 social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:rlfu@cse.cuhk.edu.hk"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/niksirbi
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=keTW2jgAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=keTW2jgAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Flians
-superuser: true
+email: "rlfu@cse.cuhk.edu.hk"
 user_groups:
 - Researchers
 - Visitors
 ---
-
-Try your best to do what you want to do!
+Always do what you like, do what you want, and try your best to be happy.
