@@ -22,7 +22,7 @@ education:
   - course: MS in Computer Science
     institution: University of Chinese Academy of Sciences
     year: Sep 2018 - Jun 2021
-  - course: International Exchange
+  - course: Public Study Abroad
     institution: Universidad Politécnica de Madrid
     year: Dec 2017 - Jun 2018
   - course: BE in Software Engineer.

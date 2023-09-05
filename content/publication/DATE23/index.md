@@ -40,4 +40,7 @@ abstract: ''
 publication: '*Proceedings of the 26th Design, Automation & Test in Europe Conference & Exhibition*'
 publication_short: '*DATE*'
 doi: 10.23919/DATE56975.2023.10137075
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10137075
 ---
