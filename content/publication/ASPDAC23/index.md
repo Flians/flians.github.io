@@ -63,4 +63,5 @@ doi: 10.1145/3566097.3567936
 links:
 - name: URL
   url: https://doi.org/10.1145/3566097.3567936
+url_pdf: https://flians.github.io/pdf/ASPDAC2023_Splitter_Insertion.pdf
 ---

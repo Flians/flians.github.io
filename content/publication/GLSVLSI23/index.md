@@ -67,4 +67,5 @@ doi: 10.1145/3583781.3590267
 links:
 - name: URL
   url: https://doi.org/10.1145/3583781.3590267
+url_pdf: https://flians.github.io/pdf/JRouter_GLSVLSI2023.pdf
 ---

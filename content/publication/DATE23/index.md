@@ -43,4 +43,5 @@ doi: 10.23919/DATE56975.2023.10137075
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10137075
+url_pdf: https://flians.github.io/pdf/DATE2023_BOMIG.pdf
 ---
