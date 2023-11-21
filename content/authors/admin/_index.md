@@ -37,7 +37,7 @@ social:
 #  link: https://twitter.com/niksirbi
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=keTW2jgAAAAJ
+  link: https://scholar.google.com/citations?user=P_K9o-AAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
   link: https://github.com/Flians
