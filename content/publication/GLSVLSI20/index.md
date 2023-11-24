@@ -7,12 +7,6 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Zhi-Min Zhang
-- Guang-Ming Tang
-- Junying Huang
-- Xiao-Chun Ye
-- Dong-Rui Fan
-- Ning-Hui Sun
 tags:
 - layer assignment
 - logic synthesis
