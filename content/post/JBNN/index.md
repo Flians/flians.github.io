@@ -12,7 +12,7 @@ projects:
 publishDate: "2022-10-03T00:57:00Z"
 summary: 
 tags: []
-title: JBNN - A Hardware Design for Binarized Neural Networks using Single-Flux-Quantum Circuits is accepted by IEEE Transactions on Computers
+title: '"JBNN: A Hardware Design for Binarized Neural Networks using Single-Flux-Quantum Circuits" is accepted by IEEE Transactions on Computers'
 url_code: ""
 url_pdf: ""
 url_slides: ""

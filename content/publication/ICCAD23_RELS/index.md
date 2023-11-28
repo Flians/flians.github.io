@@ -13,8 +13,8 @@ tags:
 - reversible quantum-flux-parametron
 - exact logic synthesis
 categories: []
-date: '2023-10-29'
-lastmod: 2023-10-29T01:09:30+08:00
+date: '2023-08-14'
+lastmod: '2023-08-14T01:09:30+08:00'
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-29T17:09:30.737080Z'
+publishDate: '2023-08-14T17:09:30.737080Z'
 publication_types:
 - '1'
 abstract: Reversible computing, deriving its inspiration from Landauer's principle, has captured significant interest as a promising technology for logic operations without energy dissipation. The reversible quantum-flux-parametron (RQFP) stands as the first practical reversible logic gate using adiabatic superconducting devices, whose logical and physical reversibility has been experimentally demonstrated. However, due to its unique logic function and structure, the design of RQFP logic circuits is a highly challenging task. At present, there are no automated design tools available for RQFP logic. Therefore, this paper proposes the first exact logic synthesis algorithm for RQFP logic. It formulates the synthesis problem as the Boolean satisfiability problem and subsequently constructs and calls upon the incremental propositional logic model iteratively for optimal synthesis with the least number of gates and garbage outputs. Experimental results on the reversible logic benchmark from RevLib demonstrate the effectiveness of the proposed algorithm.
