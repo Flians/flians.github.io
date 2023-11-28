@@ -12,7 +12,7 @@ projects:
 publishDate: "2022-08-05T14:01:00Z"
 summary: 
 tags: []
-title: A Global Buffer and Splitter Insertion Algorithm in AQFP Circuits is accepted by SASIMI 2023
+title: '"A Global Buffer and Splitter Insertion Algorithm in AQFP Circuits" is accepted by SASIMI 2023'
 url_code: ""
 url_pdf: ""
 url_slides: ""
