@@ -11,5 +11,5 @@ Personal blog
 ## import bib
 
 ```
-academic import --bibtex *.bib 
+academic import --bibtex content/publication/ICCAD23_DLPlace/cite.bib --overwrite
 ```
