@@ -20,7 +20,7 @@
           <div class="col-12 col-md-9">
             {{ $pub_types := partial "functions/get_pub_types" $ }}
             {{ range $index, $pubtype := .Params.publication_types }}
-            <a href="{{ (site.GetPage "section" "publication").RelPermalink }}#{{ . | urlize }}">
+            <a href="{{ (site.GetPage " section" "publication" ).RelPermalink }}#{{ . | urlize }}">
               {{ index $pub_types (int .) }}
             </a>
             {{ end }}
@@ -39,6 +39,20 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication" }}</div>
           <div class="col-12 col-md-9">{{ .Params.publication | markdownify }}</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    {{ if .Params.note }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">{{ i18n "note" }}</div>
+          <div class="col-12 col-md-9"><strong>{{ .Params.note | markdownify }}</strong></div>
         </div>
       </div>
       <div class="col-md-1"></div>
