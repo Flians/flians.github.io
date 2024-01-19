@@ -1,5 +1,5 @@
 - id: toggle_navigation
-  translation:  Bara de navigare
+  translation: Bara de navigare
 - id: table_of_contents
   translation: Indice
 - id: on_this_page
@@ -16,6 +16,8 @@
   translation: Următor
 - id: figure
   translation: 'Imagine %d:'
+- id: edit_page
+  translation: Edit this page
 - id: btn_preprint
   translation: Preimprimare
 - id: btn_pdf
@@ -128,3 +130,5 @@
   translation: Înțeles!
 - id: cookie_learn
   translation: Mai multe informații
+- id: note
+  translation: Note

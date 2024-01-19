@@ -130,3 +130,5 @@
   translation: Verstanden!
 - id: cookie_learn
   translation: Mehr erfahren
+- id: note
+  translation: Note
