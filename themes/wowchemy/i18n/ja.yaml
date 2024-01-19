@@ -16,6 +16,8 @@
   translation: 次へ
 - id: figure
   translation: '図 %d:'
+- id: edit_page
+  translation: Edit this page
 - id: btn_preprint
   translation: プレプリント
 - id: btn_pdf
@@ -128,3 +130,5 @@
   translation: はい
 - id: cookie_learn
   translation: 詳細を見る
+- id: note
+  translation: Note

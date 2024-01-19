@@ -16,6 +16,8 @@
   translation: Sau
 - id: figure
   translation: 'Figure %d:'
+- id: edit_page
+  translation: Edit this page
 - id: btn_preprint
   translation: Bản Thảo
 - id: btn_pdf
@@ -128,3 +130,5 @@
   translation: Got it!
 - id: cookie_learn
   translation: Learn more
+- id: note
+  translation: Note

@@ -16,6 +16,8 @@
   translation: Próximo
 - id: figure
   translation: 'Figura %d:'
+- id: edit_page
+  translation: Edit this page
 - id: btn_preprint
   translation: Pré-impressão
 - id: btn_pdf
@@ -128,3 +130,5 @@
   translation: Entendi!
 - id: cookie_learn
   translation: Saiba mais
+- id: note
+  translation: Note
