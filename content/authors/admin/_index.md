@@ -20,7 +20,7 @@ education:
     institution: The Chinese University of Hong Kong
     year: Sep 2022 - Now
   - course: MS in Computer Science
-    institution: University of Chinese Academy of Sciences
+    institution: Institute of Computing Technology, Chinese Academy of Sciences
     year: Sep 2018 - Jun 2021
   - course: Public Study Abroad
     institution: Universidad Politécnica de Madrid
