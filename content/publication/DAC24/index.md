@@ -41,4 +41,5 @@ publication: '*Proceedings of the 61th Design Automation Conference*'
 publication_short: '*DAC*'
 doi: ''
 links:
+url_pdf: https://flians.github.io/pdf/RCGP.pdf
 ---
