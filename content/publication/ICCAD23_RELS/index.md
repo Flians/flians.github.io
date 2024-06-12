@@ -38,7 +38,7 @@ publishDate: '2023-12-18T06:02:19.292060Z'
 publication_types:
 - '1'
 abstract: Reversible computing, deriving its inspiration from Landauer's principle, has captured significant interest as a promising technology for logic operations without energy dissipation. The reversible quantum-flux-parametron (RQFP) stands as the first practical reversible logic gate using adiabatic superconducting devices, whose logical and physical reversibility has been experimentally demonstrated. However, due to its unique logic function and structure, the design of RQFP logic circuits is a highly challenging task. At present, there are no automated design tools available for RQFP logic. Therefore, this paper proposes the first exact logic synthesis algorithm for RQFP logic. It formulates the synthesis problem as the Boolean satisfiability problem and subsequently constructs and calls upon the incremental propositional logic model iteratively for optimal synthesis with the least number of gates and garbage outputs. Experimental results on the reversible logic benchmark from RevLib demonstrate the effectiveness of the proposed algorithm.
-publication: '*Proceedings of the 42th IEEE/ACM International Conference on Computer-Aided Design*'
+publication: '*Proceedings of the 42nd IEEE/ACM International Conference on Computer-Aided Design*'
 publication_short: '*ICCAD*'
 doi: 10.1109/ICCAD57390.2023.10323785
 url_pdf: https://flians.github.io/pdf/RELS.pdf

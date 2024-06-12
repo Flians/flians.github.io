@@ -37,7 +37,7 @@ publishDate: 2024-02-15T14:04:38+08:00
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 61th Design Automation Conference*'
+publication: '*Proceedings of the 61st Design Automation Conference*'
 publication_short: '*DAC*'
 doi: 10.1145/3649329.3655950
 links:
