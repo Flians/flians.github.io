@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T15:54:10.869623Z'
+publishDate: '2024-06-10T06:20:10.869623Z'
 publication_types:
 - '1'
 abstract: ''
@@ -42,7 +42,7 @@ publication: '*Proceedings of the 27th Design, Automation & Test in Europe Confe
 publication_short: '*DATE*'
 # doi: 10.23919/DATE56975.2023.10137075
 links:
-# - name: URL
-#   url: https://ieeexplore.ieee.org/document/10137075
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10546887
 url_pdf: https://flians.github.io/pdf/JPlace.pdf
 ---
