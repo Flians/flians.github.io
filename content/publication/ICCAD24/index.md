@@ -9,7 +9,7 @@ authors:
 - admin
 - Mengchu Li
 - Sun-Ming Tseng
-- - Ulf Schlichtmann
+- Ulf Schlichtmann
 - Tsung-Yi Ho
 tags:
 - microfluidics

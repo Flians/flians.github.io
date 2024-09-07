@@ -17,7 +17,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-01-01'
+date: '2024-06-10'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-09-07T00:12:15.586244Z'
@@ -29,7 +29,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 53rd International Conference on Parallel Processing*'
-publication_short: ''
+publication_short: '*ICPP*'
 
 doi: 10.1145/3673038.3673073
 
