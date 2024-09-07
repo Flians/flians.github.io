@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'JBNN: A Hardware Design for Binarized Neural Networks using Single-Flux-Quantum
-  Circuits'
+title: 'JBNN: A Hardware Design for Binarized Neural Networks using Single-Flux-Quantum Circuits'
 subtitle: ''
 summary: ''
 authors:
