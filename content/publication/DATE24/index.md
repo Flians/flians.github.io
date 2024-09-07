@@ -40,7 +40,7 @@ publication_types:
 abstract: ''
 publication: '*Proceedings of the 27th Design, Automation & Test in Europe Conference & Exhibition*'
 publication_short: '*DATE*'
-# doi: 10.23919/DATE56975.2023.10137075
+doi: 10.23919/DATE58400.2024.10546887
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10546887
