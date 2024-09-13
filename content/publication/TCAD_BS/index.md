@@ -32,7 +32,7 @@ publication_types:
 publication: '*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*'
 publication_short: '*TCAD*'
 
-doi: ''
+doi: 10.1109/TCAD.2024.3461573
 
 abstract: ''
 
