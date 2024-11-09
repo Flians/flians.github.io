@@ -11,5 +11,6 @@ Personal blog
 ## import bib
 
 ```
+pip install academic
 academic import --bibtex content/publication/ICCAD23_DLPlace/cite.bib --overwrite
 ```
