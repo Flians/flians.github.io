@@ -42,7 +42,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: https://flians.github.io/pdf/TCAD_TeMACLE.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -52,9 +52,9 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Github
+  url: https://github.com/Flians/TeMACLE
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
