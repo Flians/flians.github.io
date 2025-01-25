@@ -29,7 +29,7 @@ publication_types:
 publication: '*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*'
 publication_short: '*TCAD*'
 
-doi: ''
+doi: 10.1109/TCAD.2025.3529802
 
 abstract: ''
 
@@ -43,7 +43,7 @@ featured: false
 
 # Links
 url_pdf: https://flians.github.io/pdf/TCAD_TeMACLE.pdf
-url_code: ''
+url_code: https://github.com/Flians/TeMACLE
 url_dataset: ''
 url_poster: ''
 url_project: ''
