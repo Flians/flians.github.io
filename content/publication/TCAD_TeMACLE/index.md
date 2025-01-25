@@ -53,8 +53,8 @@ url_video: ''
 
 # Custom links (uncomment lines below)
 links:
-- name: Github
-  url: https://github.com/Flians/TeMACLE
+#- name: Github
+#  url: https://github.com/Flians/TeMACLE
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
