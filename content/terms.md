@@ -10,6 +10,5 @@ editable: false
 header:
   caption: ""
   image: ""
-
 ---
 ...
