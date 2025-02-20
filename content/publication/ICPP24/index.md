@@ -60,7 +60,7 @@ featured: false
 
 # Links
 url_pdf: ''
-url_code: ''
+url_code: https://github.com/IDEA-CUHK/FlatDD
 url_dataset: ''
 url_poster: ''
 url_project: ''
