@@ -18,6 +18,7 @@ authors:
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
+note: '22.6% acceptance ratio'
 
 date: '2025-03-01'
 
