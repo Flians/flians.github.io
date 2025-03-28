@@ -22,7 +22,7 @@ author_notes: []
 date: '2024-11-07'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-11-07T00:12:15.586244Z'
+publishDate: '2025-03-28T03:45:03.961632Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -33,15 +33,30 @@ publication_types:
 publication: '*Proceedings of the 2025 International Symposium on Physical Design*'
 publication_short: '*ISPD*'
 
-doi: 
+doi: 10.1145/3698364.3705354
 
-abstract: 
+abstract: Modern very large-scale integration (VLSI) designs usually consist of modules
+  with various topological structures and functionalities. To better optimize such
+  large and heterogeneous logic networks, it is essential to identify the structural
+  and functional characteristics of its modules, and represent them with appropriate
+  DAG types (such as AIG, MIG, XAG, etc.) for logic optimization. This paper proposes
+  HeLO, a hetero-DAG logic optimization framework empowered by hierarchical clustering
+  and graph learning. HeLO leverages a hierarchical clustering algorithm, which splits
+  the original Boolean network into sub-circuits by considering both topological and
+  functional characteristics. A novel graph neural network model is customized to
+  generate the topological-functional embedding (used for distance calculation in
+  hierarchical clustering) and predict the best-fit DAG type of each sub-circuit.
+  Experimental results demonstrate that HeLO outperforms LSOracle, the SOTA heterogeneous
+  logic optimization framework, in terms of node-depth product (for technology-independent
+  logic optimization) and delay-area product (for technology mapping) by 8.7% and
+  6.9%, respectively.
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
-
+- graph learning
+- heterogeneous logic synthesis
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -74,7 +89,4 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: 
 ---
