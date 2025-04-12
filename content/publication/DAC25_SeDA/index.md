@@ -47,6 +47,6 @@ publication: '*Proceedings of the 62nd Design Automation Conference*'
 publication_short: '*DAC*'
 doi: ''
 
-url_pdf: ''
+url_pdf: https://flians.github.io/pdf/seda.pdf
 url_code: https://github.com/Anonymousview/seda
 ---
