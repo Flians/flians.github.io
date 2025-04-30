@@ -1,5 +1,5 @@
 ---
-title: An Optimal DFF-Oriented Technology Legalization Algorithm for Rapid Single-Flux-Quantum Circuits
+title: 'An Optimal DFF-Oriented Technology Legalization Algorithm for Rapid Single-Flux-Quantum Circuits'
 
 # Authors
 # A YAML list of author names
@@ -25,11 +25,11 @@ publishDate: '2025-04-30T05:18:25.155838Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- paper-conference
+- '1'
 
 # Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the Great Lakes Symposium on VLSI*'
-publication_short: 'GLSVLSI'
+publication_short: '*GLSVLSI*'
 
 doi: ''
 
