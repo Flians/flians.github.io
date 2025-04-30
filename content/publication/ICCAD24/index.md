@@ -17,7 +17,7 @@ tags:
 - bayesian optimization
 categories: []
 date: '2024-06-28'
-lastmod: 2024-7-15T14:02:19+08:00
+lastmod: 2024-07-15T14:02:19+08:00
 featured: false
 draft: false
 
