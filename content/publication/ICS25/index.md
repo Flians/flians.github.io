@@ -37,7 +37,7 @@ publication_types:
 publication: '*ACM International Conference on Supercomputing*'
 publication_short: '*ICS*'
 
-doi: ''
+doi: '10.1145/3721145.3729517'
 
 abstract: ''
 
@@ -50,7 +50,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: https://flians.github.io/pdf/JBSA.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

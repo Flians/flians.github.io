@@ -31,7 +31,7 @@ publication_types:
 publication: '*Proceedings of the Great Lakes Symposium on VLSI*'
 publication_short: '*GLSVLSI*'
 
-doi: ''
+doi: '10.1145/3716368.3735163'
 
 abstract: ''
 
@@ -48,7 +48,7 @@ tags:
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: https://flians.github.io/pdf/JLS.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
