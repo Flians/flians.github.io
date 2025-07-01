@@ -33,7 +33,21 @@ publication_short: '*GLSVLSI*'
 
 doi: '10.1145/3716368.3735163'
 
-abstract: ''
+abstract: Superconducting rapid single-flux-quantum (RSFQ) logic has garnered considerable
+  attention as a prospective technology for future computing systems, thanks to its
+  superior high-speed and low-power characteristics. However, conventional semiconductor
+  logic synthesis tools can not guarantee the functional correctness of the generated
+  RSFQ circuits. RSFQ circuits require DFF and splitter insertion to satisfy the path
+  balancing requirement and the fanout limitation, thereby legitimizing the circuit
+  design. Furthermore, DFFs and splitters inserted in RSFQ circuits introduce delays,
+  occupy area, and substantially increase energy dissipation. To address this problem,
+  this paper proposes an optimal DFF-oriented technology legalization algorithm. First,
+  an integer linear programming algorithm is proposed for the logic level assignment
+  to minimize the number of inserted DFFs. Then a splitter tree is constructed for
+  each net of the circuit to minimize the timing discrepancies among the various fanouts.
+  The experimental results on ISCAS’85 and EPFL benchmarks demonstrate the effectiveness
+  and efficiency of our proposed algorithm compared with the state-of-the-art, particularly
+  with significant advantages on large circuits.
 
 # Summary. An optional shortened abstract.
 summary: ''
