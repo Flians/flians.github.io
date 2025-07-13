@@ -47,3 +47,5 @@ user_groups:
 - Visitors
 ---
 Always do what you like, do what you want, and try your best to be happy.
+
+#### _**I am seeking a research position, please reach out for any opportunities!**_
