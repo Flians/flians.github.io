@@ -54,6 +54,6 @@ date_format = "Jan 2006"
   company_url = "https://www.nctieda.com/"
   location = "Nanjing, China"
   date_start = "2024-05-16"
-  date_end = "2021-08-01"
+  date_end = "2024-08-01"
 
 +++
