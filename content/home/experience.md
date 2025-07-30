@@ -48,4 +48,12 @@ date_format = "Jan 2006"
   date_start = "2021-05-07"
   date_end = "2021-06-10"
 
+[[experience]]
+  title = "Internship"
+  company = "National Center of Technology Innovation for EDA"
+  company_url = "https://www.nctieda.com/"
+  location = "Nanjing, China"
+  date_start = "2024-05-16"
+  date_end = "2021-08-01"
+
 +++
