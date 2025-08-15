@@ -1,21 +1,20 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'J2Place: A Multiphase Clocking-Oriented Length-Matching Placement for Rapid Single-Flux-Quantum Circuits'
+title: 'ChronoTE: Crosstalk-Aware Timing Estimation for Routing Optimization via Edge-Enhanced GNNs'
 subtitle: ''
 summary: ''
 authors:
+- Leilei Jin
 - admin
-- Minglei Zhou
-- Huilong Jiang
-- Junying Huang
-- Xiaochun Ye
+- Zhen Zhuang
+- Liang Xiao
+- Fangzhou Liu
+- Bei Yu
 - Tsung-Yi Ho
 tags:
-- superconducting logic
-- RSFQ
-- placement
-- multiphase clocking
+- timing estimation
+- crosstalk-induced delay
 categories: []
 date: '2025-07-01'
 lastmod: '2025-07-01T06:34:19+08:00'
@@ -29,6 +28,9 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+# Links
+url_pdf: https://flians.github.io/pdf/ChronoTE.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
