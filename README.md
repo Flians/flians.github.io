@@ -12,5 +12,5 @@ Personal blog
 
 ```
 pip install academic
-academic import --bibtex content/publication/ICCAD23_DLPlace/cite.bib --overwrite
+academic import content/publication/ASPDAC26_DCLOG/cite.bib content/publication/ASPDAC26_3D
 ```
