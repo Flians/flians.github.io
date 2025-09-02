@@ -12,5 +12,5 @@ Personal blog
 
 ```
 pip install academic
-academic import content/publication/ASPDAC26_DCLOG/cite.bib content/publication/ASPDAC26_3D
+academic import content/publication/ASPDAC26_3D/cite.bib content/publication/ASPDAC26_3D
 ```
