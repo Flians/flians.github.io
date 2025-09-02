@@ -1,6 +1,5 @@
 ---
-title: "DCLOG: Don't Cares-based Logic Optimization using Pre-training Graph Neural
-  Networks"
+title: "DCLOG: Don't Cares-based Logic Optimization using Pre-training Graph Neural Networks"
 
 # Authors
 # A YAML list of author names
@@ -23,16 +22,16 @@ author_notes: []
 date: '2026-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-09-02T09:22:59.432201Z'
+publishDate: '2025-09-02T12:41:01.241158Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- paper-conference
+- '1'
 
 # Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 31st Asia and South Pacific Design Automation Conference*'
-publication_short: ''
+publication_short: 'ASPDAC'
 
 doi: ''
 
