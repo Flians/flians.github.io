@@ -1,5 +1,5 @@
 ---
-title: Partitioning-free {3D-IC} Floorplanning
+title: Partitioning-free 3D-IC Floorplanning
 
 # Authors
 # A YAML list of author names
