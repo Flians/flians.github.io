@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: 'JPnR: A Length-Matching Placement and Routing Framework for Single-Flux-Quantum Circuits'
 subtitle: ''
 summary: ''
@@ -34,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-10-16T20:26:07+08:00'
+publishDate: '2025-10-16T20:26:07.241158Z'
 publication_types:
 - '2'
 abstract: ''
