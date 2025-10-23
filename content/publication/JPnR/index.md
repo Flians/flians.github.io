@@ -39,5 +39,5 @@ abstract: ''
 publication: '*IEEE Transactions on Computers*'
 publication_short: '*TC*'
 doi: 
-url_pdf: 
+url_pdf: 'https://flians.github.io/pdf/JPnR.pdf'
 ---
