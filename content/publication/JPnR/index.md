@@ -38,6 +38,6 @@ publication_types:
 abstract: ''
 publication: '*IEEE Transactions on Computers*'
 publication_short: '*TC*'
-doi: 
+doi: 10.1109/TC.2025.3625822
 url_pdf: 'https://flians.github.io/pdf/JPnR.pdf'
 ---
