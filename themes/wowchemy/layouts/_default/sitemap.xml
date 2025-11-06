@@ -21,7 +21,7 @@
   {{ end }}
   
   {{/* Add PDF files from static/pdf directory */}}
-  {{ $pdfDirs := slice "themes/wowchemy/static/pdf" "static/pdf" }}
+  {{ $pdfDirs := slice "themes/wowchemy/static/pdf" "pdf" }}
   {{ range $pdfDirs }}
     {{ $pdfDir := . }}
     {{ if fileExists $pdfDir }}
