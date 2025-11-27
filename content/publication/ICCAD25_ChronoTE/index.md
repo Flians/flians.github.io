@@ -44,5 +44,5 @@ publication_types:
 abstract: 
 publication: '*Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design*'
 publication_short: '*ICCAD*'
-doi: 
+doi: '10.1109/ICCAD66269.2025.11240759'
 ---
