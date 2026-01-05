@@ -33,7 +33,7 @@ publication_types:
 publication: '*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*'
 publication_short: '*TCAD*'
 
-doi: ''
+doi: '10.1109/TCAD.2026.3650860'
 
 abstract: ''
 
@@ -46,7 +46,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: https://flians.github.io/pdf/CHOP.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
