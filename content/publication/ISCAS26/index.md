@@ -35,9 +35,7 @@ publication_short: 'ISCAS'
 
 doi: ''
 
-abstract: Logic synthesis optimization is essential for enhancing the quality of results (QoR) of circuits by applying a sequence of structural transformations to circuit representations. 
-This paper proposes RECALLS, a novel reinforcement learning (RL)-enhanced generative model for logic synthesis optimization. RECALLS is built upon a graph-to-sequence generative model and further fine-tuned with RL from human feedback technology. This model eliminates repetitive exploration and directly generates sequences for any specified design by inference. 
-Experimental results demonstrate that RECALLS significantly enhances circuit QoR compared to hand-crafted transformation sequences. Furthermore, RECALLS achieves thousands of times faster than the machine learning-based methods while consistently generating sequences with comparable QoR.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
