@@ -33,7 +33,7 @@ publication_types:
 publication: '*Proceedings of the 31st Asia and South Pacific Design Automation Conference*'
 publication_short: 'ASPDAC'
 
-doi: ''
+doi: '10.1109/ASP-DAC66049.2026.11420303'
 
 abstract: Logic rewriting serves as a robust optimization technique that enhances
   Boolean networks by substituting small segments with more effective implementations.
