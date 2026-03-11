@@ -32,7 +32,7 @@ publication_types:
 publication: '*Proceedings of the 31st Asia and South Pacific Design Automation Conference*'
 publication_short: 'ASPDAC'
 
-doi: ''
+doi: '10.1109/ASP-DAC66049.2026.11420430'
 
 abstract: 'Although 3D IC integration offers a promising path to alleviate interconnect
   bottlenecks in 2D designs, efficient 3D floorplanning remains challenging due to
