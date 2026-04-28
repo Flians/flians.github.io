@@ -18,7 +18,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: The Chinese University of Hong Kong
-    year: Sep 2022 - Now
+    year: Sep 2022 - Jan 2026
   - course: MS in Computer Science
     institution: Institute of Computing Technology, Chinese Academy of Sciences
     year: Sep 2018 - Jun 2021
