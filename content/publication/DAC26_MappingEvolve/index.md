@@ -27,7 +27,7 @@ publication_types:
 - '1'
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 63nd Design Automation Conference*'
+publication: '*Proceedings of the 63rd Design Automation Conference*'
 publication_short: '*DAC*'
 
 doi: ''

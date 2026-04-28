@@ -3,13 +3,13 @@ name: Flynn
 authors: 
 - admin
 superuser: true
-#role: PhD Student
+role: Research Fellow
 organizations:
 - name: Intelligent Design Automation Lab
   url: "https://tsungyiho.github.io/"
 - name: CSE, CUHK
   url: "https://www.cse.cuhk.edu.hk/"
-#bio: medical doctor turned neuroscientist and image analyst.
+bio: EDA researcher specializing in electronic design automation, superconductive electronics, and computer architecture.
 interests:
 - Electronic design automation
 - Superconductive electronics
@@ -18,7 +18,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: The Chinese University of Hong Kong
-    year: Sep 2022 - Now
+    year: Sep 2022 - Jan 2026
   - course: MS in Computer Science
     institution: Institute of Computing Technology, Chinese Academy of Sciences
     year: Sep 2018 - Jun 2021
