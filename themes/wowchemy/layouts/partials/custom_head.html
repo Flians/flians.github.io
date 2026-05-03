@@ -1,5 +1,23 @@
-{{/* Do not directly modify this file! */}}
-{{/* Instead, create a `layout/partials/custom_head.html` file in your site and add your code to it. */}}
-
-{{/* This partial is included in `themes/academic/layout/partials/site_head.html`. */}}
 <meta name="google-site-verification" content="mMvtdvUY4C8XYo3g9aIiGQ4Wk7BP4bmt3SkWMc6y2BM" />
+
+{{/* Google Scholar citation meta tags for publication pages */}}
+{{ if and (eq .Type "publication") .Params.title }}
+<meta name="citation_title" content="{{ .Params.title }}">
+{{ range .Params.authors }}
+  {{- $profile_page := site.GetPage (printf "/authors/%s" (. | urlize)) -}}
+  {{- $name := $profile_page.Params.name | default . -}}
+<meta name="citation_author" content="{{ $name }}">
+{{ end }}
+<meta name="citation_publication_date" content="{{ .Params.date.Format "2006/01/02" }}">
+{{ if .Params.publication }}
+  {{ if in .Params.publication_types "1" }}
+<meta name="citation_conference_title" content="{{ .Params.publication | markdownify | plainify }}">
+  {{ else if in .Params.publication_types "2" }}
+<meta name="citation_journal_title" content="{{ .Params.publication | markdownify | plainify }}">
+  {{ end }}
+{{ end }}
+{{ with .Params.doi }}<meta name="citation_doi" content="{{ . }}">{{ end }}
+{{ with .Params.url_pdf }}<meta name="citation_pdf_url" content="{{ . | absURL }}">{{ end }}
+<meta name="citation_abstract_html_url" content="{{ .Permalink }}">
+<meta name="citation_language" content="en">
+{{ end }}
