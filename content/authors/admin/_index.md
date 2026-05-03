@@ -1,5 +1,6 @@
 ---
 name: Flynn
+scholar_name: Rongliang Fu
 authors: 
 - admin
 superuser: true
