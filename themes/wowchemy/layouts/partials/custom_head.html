@@ -5,7 +5,7 @@
 <meta name="citation_title" content="{{ .Params.title }}">
 {{ range .Params.authors }}
   {{- $profile_page := site.GetPage (printf "/authors/%s" (. | urlize)) -}}
-  {{- $name := $profile_page.Params.name | default . -}}
+  {{- $name := $profile_page.Params.scholar_name | default $profile_page.Params.name | default . -}}
 <meta name="citation_author" content="{{ $name }}">
 {{ end }}
 <meta name="citation_publication_date" content="{{ .Params.date.Format "2006/01/02" }}">
@@ -18,6 +18,7 @@
 {{ end }}
 {{ with .Params.doi }}<meta name="citation_doi" content="{{ . }}">{{ end }}
 {{ with .Params.url_pdf }}<meta name="citation_pdf_url" content="{{ . | absURL }}">{{ end }}
+{{ with .Params.abstract }}<meta name="citation_abstract" content="{{ . }}">{{ end }}
 <meta name="citation_abstract_html_url" content="{{ .Permalink }}">
 <meta name="citation_language" content="en">
 {{ end }}
