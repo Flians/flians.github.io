@@ -13,9 +13,7 @@ projects: null
 publishDate: "2023-07-21T08:27:00Z"
 summary: null
 tags: []
-title: '"Exact Logic Synthesis for Reversible Quantum-Flux-Parametron Logic" and
-  "DLPlace: A Delay-Line Clocking-based Placement Framework for AQFP Circuits"
-  are accepted by ICCAD 2023'
+title: '2 papers are accepted by ICCAD 2023'
 url_code: ""
 url_pdf: ""
 url_slides: ""
