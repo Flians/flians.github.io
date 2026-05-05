@@ -4,7 +4,7 @@ all_day: false
 authors: [admin]
 event: Featured Paper of the Month
 event_url: 
-featured: false
+featured: true
 links:
 location: 
 math: true
