@@ -33,7 +33,7 @@ publication_types:
 publication: '*Proceedings of the Design, Automation & Test in Europe Conference & Exhibition*'
 publication_short: 'DATE'
 
-doi: ''
+doi: '10.23919/DATE69613.2026.11539152'
 
 abstract: 'Majority-Inverter Graph (MIG) emerges as a promising data structure for logic optimization and synthesis, offering a more compact representation for logic functions compared to traditional AND/OR-Inverter graphs. Consequently, the MIG finds widespread application in digital circuit design, particularly in quantum circuits and superconducting adiabatic quantum-flux-parametron logic circuits. Currently, logic optimization techniques for MIG mainly fall into two categories: (i) logic rewriting with predefined more compact sub-structures and (ii) logic resubstitution with already existing logic in the Boolean network. However, the inherent complexity of MIG logic and the limitation imposed by the input scale of sub-structures significantly impact the performance of these methods. To address these challenges, this paper proposes eLogic, a novel depth-oriented MIG logic rewriting framework using e-graphs, to minimize the depth and size of MIG. The eLogic utilizes the e-graphs, a data structure for efficient computation with equalities between terms, to minimize the depth and size of the cone delimited by the cut. The experimental results on the EPFL benchmark demonstrate the effectiveness of eLogic. It is noteworthy that eLogic will be open-sourced on GitHub.'
 
