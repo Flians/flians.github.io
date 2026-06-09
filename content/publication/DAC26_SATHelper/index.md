@@ -1,5 +1,5 @@
 ---
-title: 'SAT-Helper: A Multi-Agent System for Adaptive Optimizing Large-Scale Conjunctive Normal Form'
+title: 'Late Breaking Results: A Multi-Agent System for Adaptive Optimization of Large-Scale Conjunctive Normal Form'
 
 # Authors
 # A YAML list of author names
@@ -43,7 +43,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://flians.github.io/pdf/SATHelper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
