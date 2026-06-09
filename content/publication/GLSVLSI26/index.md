@@ -51,7 +51,7 @@ tags:
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://flians.github.io/pdf/THLR.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
