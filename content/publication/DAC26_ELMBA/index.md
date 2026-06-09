@@ -31,7 +31,7 @@ publication_types:
 publication: '*Proceedings of the 63rd Design Automation Conference*'
 publication_short: '*DAC*'
 
-doi: ''
+doi: '10.1145/3770743.3803938'
 
 abstract: ''
 
@@ -44,7 +44,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://flians.github.io/pdf/ELMBA.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
