@@ -33,7 +33,7 @@ publication_types:
 publication: '*Proceedings of the 34th IEEE International Symposium on Field-Programmable Custom Computing Machines*'
 publication_short: '*FCCM*'
 
-doi: ''
+doi: '10.1109/FCCM68464.2026.00052'
 
 abstract: ''
 
