@@ -34,7 +34,7 @@ publication_types:
 publication: '*Proceedings of the Design, Automation & Test in Europe Conference & Exhibition*'
 publication_short: 'DATE'
 
-doi: ''
+doi: '10.23919/DATE69613.2026.11539307'
 
 abstract: 'Despite the availability of numerous frameworks and tools for automated PCB placement and routing, the industry still relies heavily on expert designers to ensure layout reliability and performance. However, when design requirements change, such as adjustments to board dimensions or the addition of new obstacles, experts must often recreate similar layouts from scratch, leading to substantial inefficiencies in both time and resources. To address this challenge, we introduce PCB-Migrator, an automated framework for PCB layout migration. Our approach leverages an offset constraint graph to capture positional relationships among components in the referenced design and effectively map them onto the new PCB. Additionally, PCB-Migrator builds routing path graphs to extract routing characteristics from the reference layout and applies graph matching to guide the routing process on the new board. Experimental results demonstrate that PCB-Migrator outperforms existing baselines, achieving faster runtimes while preserving the key design characteristics and performance of the referenced PCB.'
 
