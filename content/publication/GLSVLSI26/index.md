@@ -35,7 +35,7 @@ publication_types:
 publication: '*Proceedings of the Great Lakes Symposium on VLSI*'
 publication_short: '*GLSVLSI*'
 
-doi: ''
+doi: '10.1145/3787109.3815207'
 
 abstract: ''
 
