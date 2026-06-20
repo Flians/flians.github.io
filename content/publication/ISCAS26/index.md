@@ -33,7 +33,7 @@ publication_types:
 publication: '*IEEE International Symposium on Circuits and Systems*'
 publication_short: 'ISCAS'
 
-doi: ''
+doi: '10.1109/iscas66217.2026.11562134'
 
 abstract: ''
 
