@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'AICL: Alignment-Driven Iterative Closed-Loop Optimization for Layout Pattern Clustering'
+title: 'LibPilot: Knowledge-Constrained Dual-Agent Reasoning for Standard Cell Library Tuning'
 subtitle: ''
 summary: ''
 authors:
