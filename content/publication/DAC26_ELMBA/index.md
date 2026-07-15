@@ -44,7 +44,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: 'https://flians.github.io/pdf/ELMBA.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
