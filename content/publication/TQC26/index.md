@@ -32,7 +32,7 @@ publication_types:
 publication: '*ACM Transactions on Quantum Computing*'
 publication_short: '*TQC*'
 
-doi: ''
+doi: '10.1145/3833216'
 
 abstract: ''
 
