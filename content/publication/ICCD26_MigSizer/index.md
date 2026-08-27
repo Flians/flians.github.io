@@ -22,10 +22,10 @@ authors:
 author_notes: []
 note: 'Corresponding Author'
 
-date: '2026-01-01'
+date: '2026-08-20'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2026-08-27T02:23:37.347737Z'
+publishDate: '2026-08-20T02:23:37.347737Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
