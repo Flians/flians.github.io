@@ -20,6 +20,7 @@ authors:
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
+note: 'Corresponding Author'
 
 date: '2026-01-01'
 
@@ -32,8 +33,8 @@ publication_types:
 - '1'
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE International Conference on Computer Design (ICCD)*'
-publication_short: ''
+publication: '*IEEE International Conference on Computer Design*'
+publication_short: 'ICCD'
 
 doi: ''
 
