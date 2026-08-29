@@ -12,6 +12,7 @@ authors:
 - Zhengyuan Shi
 - Yuan Pu
 - Junying Huang
+- Bei Yu
 - Qiang Xu
 - Tsung-Yi Ho
 
