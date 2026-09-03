@@ -1,0 +1,19 @@
+@inproceedings{ren2027agenticpd,
+  author    = {Ren, Shuo and Cheng, Zijin and Han, Yaohui and Shen, Libo and Jin, Leilei and Tian, Wanting and Fu, Rongliang  and Wang, Chao and Yu, Bei and Ho, Tsung-Yi},
+  booktitle = {Proceedings of the 32nd Asia and South Pacific Design Automation Conference},
+  title     = {{AgenticPD}: A Stage-Aware Agentic Framework for Closed-Loop Physical Design Optimization},
+  year      = {2027},
+  volume    = {},
+  number    = {},
+  pages     = {},
+  keywords  = {},
+  doi       = {},
+  abstract  = {Physical design quality-of-results~(QoR) optimization is hard and expensive.
+               Choices made at one stage can help or hurt later stages.
+               Each evaluation requires a costly EDA run through the full flow.
+               While existing methods still treat optimization as flat parameter tuning or a LLM-based script generation task, we present AgenticPD\footnote{Our code is open-sourced at \url{https://anonymous.4open.science/r/AgenticPD-C74B}. $^*$~Corresponding author: Rongliang Fu (rlfu@cse.cuhk.edu.hk).}, a stage-aware agentic framework for physical design QoR optimization.
+               Instead of re-running the full flow after every trial, AgenticPD is organized around the stage boundaries of the physical design flow, where a Judge Agent navigates the search and stage-specialized agents make local decisions within their own stage using stage-local tools.
+               Additionally, the agent harness in AgenticPD provides structured observations, execution history, and agent context management.
+               Together, these components form a stage-aware closed loop: measured post-GR QoR updates the optimization history, the Judge selects a retained design state and the stages to revise, and the Stage Agents execute the resulting downstream branch; post-DR QoR is reserved for final reporting.
+               AgenticPD improves timing while maintaining competitive power and area. }
+}
