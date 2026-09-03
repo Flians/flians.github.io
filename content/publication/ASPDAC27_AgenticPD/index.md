@@ -1,5 +1,5 @@
 ---
-title: AgenticPD: A Stage-Aware Agentic Framework for Closed-Loop Physical Design Optimization
+title: 'AgenticPD: A Stage-Aware Agentic Framework for Closed-Loop Physical Design Optimization'
 
 # Authors
 # A YAML list of author names
