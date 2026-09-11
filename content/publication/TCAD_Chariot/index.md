@@ -1,5 +1,5 @@
 ---
-title: 'Compiler-Aware Heterogeneous Graph Learning for {HLS} {QoR} Prediction and Design Space Exploration'
+title: 'Compiler-Aware Heterogeneous Graph Learning for HLS QoR Prediction and Design Space Exploration'
 
 # Authors
 # A YAML list of author names
@@ -33,9 +33,9 @@ publication_types:
 publication: '*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*'
 publication_short: '*TCAD*'
 
-doi: ''
+doi: '10.1109/TCAD.2026.3732102'
 
-abstract: ''
+abstract: 'High-level synthesis (HLS) design space exploration seeks Pareto-optimal designs within vast directive configuration spaces. Existing graph neural network approaches rely mostly on single-graph, homogeneous-style representations that do not model pragma-to-target semantics explicitly, which is especially limiting for memory-related optimizations whose hardware effects are realized through compiler IR rather than source syntax. We propose Chariot, an end-to-end HLS optimization framework with a compiler-aware graph construction pipeline that uses LLVM static analysis and Use-Def tracking to link pragmas to their resolved targets across memory boundaries, and represents each design as a heterogeneous graph with distinct node and edge types and a dedicated directive-to-target relation. Built on a multi-suite dataset from an AST-based rules engine, Chariot attains strong post-implementation QoR prediction and improves DSE ranking quality on unseen benchmarks, improving average top-k ranking quality by 2.3–4.8× over the strongest prior baseline across ranking budgets while delivering orders-of-magnitude speedup over synthesis-in-the-loop exploration. The advantages carry over to an independent public HLS dataset on a different FPGA family, where Chariot again attains the lowest QoR prediction error across all targets, demonstrating cross-dataset and cross-device generalization.'
 
 # Summary. An optional shortened abstract.
 summary: ''
