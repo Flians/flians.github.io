@@ -35,7 +35,7 @@ image:
   preview_only: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://flians.github.io/pdf/APCG.pdf'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -49,5 +49,5 @@ publication_types:
 abstract: 
 publication: '*Proceedings of the 45th IEEE/ACM International Conference on Computer-Aided Design*'
 publication_short: '*ICCAD*'
-doi: ''
+doi: '10.1145/3831252.3834248'
 ---
