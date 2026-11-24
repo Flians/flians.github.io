@@ -1,5 +1,5 @@
 ---
-title: 'ReSynP3D: Bridging Logic Resynthesis and Tier Repartitioning during 3D~IC Placement Optimization'
+title: 'ReSynP3D: Bridging Logic Resynthesis and Tier Repartitioning during 3D IC Placement Optimization'
 
 # Authors
 # A YAML list of author names
