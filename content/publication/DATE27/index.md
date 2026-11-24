@@ -38,22 +38,7 @@ publication_short: 'DATE'
 
 doi: ''
 
-abstract: 'As Moore's law slows, 3D ICs offer a promising path to continued improvements in performance and energy efficiency.
-In 3D ICs, Boolean structure and tier assignment jointly determine
-critical-path delay, yet fixing the logic structure before placement leaves
-cross-tier restructuring opportunities unexplored. We present ReSynP3D,
-a timing-driven cross-tier logic resynthesis method integrated into placement
-iterations. It restructures critical combinational regions across dies using
-Boolean transformations and timing-aware technology mapping under
-placement-derived boundary timing and load constraints. Internal cross-tier
-connections can change while the region's input--output functionality is
-preserved. A measured cross-tier delay penalty guides resynthesis, and
-criticality-weighted local tier repartitioning assigns the replacement cells
-to the two tiers.
-Together, these steps target cell delay and tier crossings, with power,
-performance, and area (PPA) evaluated after routing. Across the 16 reported cases on eight
-designs and two technology nodes, ReSynP3D improves WNS-derived post-route
-frequency by 9.1\% on average and up to 34.2\% over Pin-3D.'
+abstract: 'As Moore's law slows, 3D ICs offer a promising path to continued improvements in performance and energy efficiency. In 3D ICs, Boolean structure and tier assignment jointly determine critical-path delay, yet fixing the logic structure before placement leaves cross-tier restructuring opportunities unexplored. We present ReSynP3D, a timing-driven cross-tier logic resynthesis method integrated into placement iterations. It restructures critical combinational regions across dies using Boolean transformations and timing-aware technology mapping under placement-derived boundary timing and load constraints. Internal cross-tier connections can change while the region's input--output functionality is preserved. A measured cross-tier delay penalty guides resynthesis, and criticality-weighted local tier repartitioning assigns the replacement cells to the two tiers. Together, these steps target cell delay and tier crossings, with power, performance, and area (PPA) evaluated after routing. Across the 16 reported cases on eight designs and two technology nodes, ReSynP3D improves WNS-derived post-route frequency by 9.1\% on average and up to 34.2\% over Pin-3D.'
 
 # Summary. An optional shortened abstract.
 summary: ''
